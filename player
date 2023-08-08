@@ -1,0 +1,34 @@
+<div id="html5-player" class="hidden">
+						<div id="channels" class="minimized">
+							<div id="channels-left-border">
+								<div></div>
+							</div>
+							<div id="masterchannel" class="masterchannel">
+								<div class="masterchannel-bg">
+
+									<div class="masterchannel-bg-inner">
+
+										<div class="volume mastervolume">
+											<div class="volume_bg" style="left: 21px !important;">
+												<hr/><hr/><hr/><hr/><hr/><hr/><hr/><hr/><hr/><hr/><hr/>
+											</div>
+											<div class="slider mastercontrol_volume" style="margin-top: 1.5em;"></div>
+										</div>
+
+										<div class="buttonconsole" style="margin-top: 0.5em; width: 2.75em; height: 2.5em;">
+											<button class="mastercontrol_mute" style="height: 100%;"></button>
+										</div>
+
+										<div class="buttonconsole mixer-minimize-control"
+											 style="margin-top: 1.125em; width: 55px; line-height: normal">
+											<button style="height: 38px;">Show Mixer</button>
+										</div>
+									</div>
+
+									<div class="buttonconsole mixer-save-control"
+										 style="position: relative; top: -0.75em; width: 55px; line-height: normal">
+										<button style="height: 38px;">Save Settings</button>
+									</div>
+								</div>
+							</div>
+						</div> 
